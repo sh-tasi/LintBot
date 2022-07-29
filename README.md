@@ -5,7 +5,7 @@
 ## 後端技術
 #### 1. Django
 #### 2. ngrok
-#### 3. ngrokLINE Platform API 
+#### 3. LINE Platform API 
 
 ## 使用說明
 #### 1. 加入好友後，輸入"註冊"完成用戶註冊
